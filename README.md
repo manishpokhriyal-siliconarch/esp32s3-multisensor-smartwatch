@@ -76,10 +76,10 @@ All project-related files are attached within the repository.
 
 <table>
   <tr>
-    <td width="49%">
+    <td width="55%">
       <img src="Images/Placement_Front.png" width="100%">
     </td>
-    <td width="51%">
+    <td width="45%">
       <img src="Images/Placement_Rear.png" width="100%">
     </td>
   </tr>

@@ -1,4 +1,3 @@
-# esp32s3-multisensor-smartwatch
 # Compact ESP32-S3 Smartwatch PCB with Multi-Sensor Integration
 
 A compact two-layer smartwatch PCB designed using KiCad for wearable embedded applications based on the ESP32-S3 wireless microcontroller.

@@ -110,7 +110,7 @@ All project-related files are attached within the repository.
 
 ### BOM (Bill of Materials)
 
-[Download BOM CSV](myJobset/Fab-n-Assembly/bom.csv)
+[BOM CSV](myJobset/Fab-n-Assembly/bom.csv)
 
 ---
 

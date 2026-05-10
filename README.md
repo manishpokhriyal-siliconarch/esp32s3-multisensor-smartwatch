@@ -81,7 +81,9 @@ All project-related files are attached within the repository.
 
 ### PCB Dimensions, Routing, and Ground Pouring
 
-![Routing](Images/Routing\&Pouring.png)
+<p align="left">
+  <img src="Images/Routing&Pouring.png" width="50%">
+</p>
 
 ---
 

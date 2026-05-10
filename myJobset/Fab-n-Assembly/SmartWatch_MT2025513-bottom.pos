@@ -1,0 +1,46 @@
+### Footprint positions - created on 2026-04-29T04:09:03+0530 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                Package                                           PosX       PosY       Rot  Side
+C4        0.1uF              C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   151.4400  -107.7050    0.0000  bottom
+C5        4.7uF              C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   139.1500  -109.5300  180.0000  bottom
+C6        0.1uF              C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   139.1500  -110.5100  180.0000  bottom
+C7        0.1uF              C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   139.1500  -112.5200  180.0000  bottom
+C8        10uF               C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   139.1500  -111.5400  180.0000  bottom
+C9        0.1uF              C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   150.6100  -117.1925    0.0000  bottom
+C10       0.1uF              C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   150.3100  -110.8825  180.0000  bottom
+C11       0.1uF              C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   150.3100  -111.8525  180.0000  bottom
+C13       4.7uF              C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   135.3075  -125.8594    0.0000  bottom
+C14       4.7uF              C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   138.5775  -124.4894   90.0000  bottom
+C15       1uF                C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   143.9800  -118.7700  -90.0000  bottom
+C16       1uF                C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   141.3100  -116.9200    0.0000  bottom
+C17       10uF               C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   146.4400  -124.3800    0.0000  bottom
+C18       0.1uF              C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   140.2400  -124.1200  180.0000  bottom
+C19       10uF               C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   140.8700  -122.5100  -90.0000  bottom
+C20       10uF               C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   145.8100  -122.7200  -90.0000  bottom
+D2        RED_LED            LED_0603_1608Metric                           137.5175  -120.8994  180.0000  bottom
+J2        20600-018E-01      IPEX_20600-018E-01                            157.5200  -114.6700  -90.0000  bottom
+J3        SM02B-GHS-TB       JST_SM02B-GHS-TB                              127.6400  -105.2000   90.0000  bottom
+L1        2.2uH              L_1008_2520Metric_Pad1.43x2.20mm_HandSolder   147.6800  -121.6775   90.0000  bottom
+R9        4.7k               R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   151.4625  -108.6950  180.0000  bottom
+R10       4.7k               R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   151.4625  -106.7150  180.0000  bottom
+R11       4.7k               R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   151.4600  -105.7100  180.0000  bottom
+R12       2.2k               R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   143.2225  -106.5800    0.0000  bottom
+R13       2.2k               R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   143.2225  -105.5850    0.0000  bottom
+R14       2.2k               R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   139.1300  -108.5400    0.0000  bottom
+R15       10k                R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   152.6700  -114.1725   90.0000  bottom
+R16       1k                 R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   148.1400  -117.2025  180.0000  bottom
+R17       0E                 R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   145.9100  -115.3625  -90.0000  bottom
+R18       DNI                R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   145.9100  -113.0825  -90.0000  bottom
+R20       1k                 R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   153.7400  -116.8200  -90.0000  bottom
+R21       2k                 R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   134.8675  -121.8894  180.0000  bottom
+R22       560E               R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   137.9275  -122.2094  180.0000  bottom
+R23       100E               R_0402_1005Metric_Pad0.72x0.64mm_HandSolder   140.2200  -125.1100    0.0000  bottom
+U2        PCA9306DP          TSSOP-8_3x3mm_P0.65mm                         147.3400  -106.7400    0.0000  bottom
+U3        MAX30102           Maxim_OLGA-14_3.3x5.6mm_P0.8mm                142.2000  -110.4000  180.0000  bottom
+U4        BNO086             BNO086                                        149.2900  -114.5200  180.0000  bottom
+U5        MCP73831T-2ACI_OT  SOT95P280X145-5N                              136.0346  -124.0300  180.0000  bottom
+U6        LD56020M180R       SOT23-5L_STM                                  141.3038  -119.2400  180.0000  bottom
+U7        TPS63001           Texas_DRC0010J_ThermalVias                    143.3400  -123.2200  180.0000  bottom
+## End

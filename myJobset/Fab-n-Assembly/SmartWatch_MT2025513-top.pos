@@ -1,0 +1,26 @@
+### Footprint positions - created on 2026-04-29T04:09:03+0530 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                          Package                                                       PosX       PosY       Rot  Side
+C1        0.1uF                        C_0402_1005Metric_Pad0.74x0.62mm_HandSolder               126.8600  -106.0900  -90.0000  top
+C2        0.1uF                        C_0402_1005Metric_Pad0.74x0.62mm_HandSolder               126.8900  -111.7200  -90.0000  top
+C3        0.1uF                        C_0402_1005Metric_Pad0.74x0.62mm_HandSolder               155.9300  -105.3400   90.0000  top
+C12       0.1uF                        C_0402_1005Metric_Pad0.74x0.62mm_HandSolder               149.5500  -122.6800    0.0000  top
+D1        GREEN_LED                    LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder             157.6500  -110.3400  180.0000  top
+J1        USB_C_Receptacle_USB2.0_16P  USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal   128.3750  -118.7800  -90.0000  top
+MK1       MMICT5848-00-012             MIC_MMICT5848-00-012                                      150.3420  -124.7700   90.0000  top
+R1        820E                         R_0402_1005Metric_Pad0.72x0.64mm_HandSolder               157.1150  -109.0800    0.0000  top
+R2        10k                          R_0402_1005Metric_Pad0.72x0.64mm_HandSolder               155.9200  -103.0800   90.0000  top
+R3        10k                          R_0402_1005Metric_Pad0.72x0.64mm_HandSolder               126.8800  -109.4600   90.0000  top
+R4        10k                          R_0402_1005Metric_Pad0.72x0.64mm_HandSolder               126.8600  -103.8300   90.0000  top
+R5        22E                          R_0402_1005Metric_Pad0.72x0.64mm_HandSolder               134.3100  -118.7800  180.0000  top
+R6        22E                          R_0402_1005Metric_Pad0.72x0.64mm_HandSolder               134.3100  -119.7800  180.0000  top
+R7        5.1k                         R_0402_1005Metric_Pad0.72x0.64mm_HandSolder               134.3100  -120.7800    0.0000  top
+R8        5.1k                         R_0402_1005Metric_Pad0.72x0.64mm_HandSolder               134.3100  -117.5300    0.0000  top
+R19       100k                         R_0402_1005Metric_Pad0.72x0.64mm_HandSolder               147.8100  -125.3700  -90.0000  top
+S1        PTS847MM160LSMTR2_LFS        SW_PTS847MM160LSMTR2_LFS                                  157.8825  -105.4200   90.0000  top
+SW1       PTS526_SM15_SMTR2_LFS        PTS526SM15SMTR2LFS                                        130.9900  -104.9000    0.0000  top
+SW2       PTS526_SM15_SMTR2_LFS        PTS526SM15SMTR2LFS                                        130.9900  -110.4400    0.0000  top
+U1        ESP32-S3-WROOM-1             ESP32-S3-WROOM-1                                          145.2300  -108.6600    0.0000  top
+## End

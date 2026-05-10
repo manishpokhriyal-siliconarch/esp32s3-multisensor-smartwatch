@@ -32,10 +32,10 @@ The electronic design and PCB development were completed using KiCad, an open-so
 
 * PCB Dimensions: 35 mm × 42 mm
 * PCB Layers: 2
+* Watch Strap Mounting Slots: 22 mm × 2.5 mm slots for standard smartwatch strap compatibility
 * Passive Components: 0402_1005Metric_Pad0.72x0.64mm_HandSolder SMD package
 * LEDs: 0603_1608Metric_Pad1.05x0.95mm_HandSolder SMD package
 * Buck-Boost Power Inductor: 1008_2520Metric_Pad1.43x2.20mm_HandSolder SMD package
-* Watch Strap Mounting Slots: 22 mm × 2.5 mm slots for standard smartwatch strap compatibility
 
 The PCB was designed to match the dimensions of commercially available 1.83-inch smartwatch display modules for simplified mechanical integration within a wearable smartwatch assembly.
 

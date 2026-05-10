@@ -51,21 +51,37 @@ All project-related files are attached within the repository.
 
 ## PCB Images
 
-### Front Side PCB
+### Final Smartwatch PCB Implementation
 
-(Add image here)
+![Final PCB](Images/Result.png)
 
-### Rear Side PCB
+### Front-Side PCB Layout
 
-(Add image here)
+![Front PCB](Images/Front.png)
 
-### PCB Routing
+### Rear-Side PCB Layout
 
-(Add image here)
+![Rear PCB](Images/Rear.png)
 
-### 3D PCB View
+### PCB Routing and Ground Plane
 
-(Add image here)
+![Routing](Images/Routing\&Pouring.png)
+
+### System-Level Schematic
+
+![Schematic](Images/Schematic.png)
+
+### Front-Side Component Placement
+
+![Placement Front](Images/Placement_Front.png)
+
+### Rear-Side Component Placement
+
+![Placement Rear](Images/Placement_Rear.png)
+
+### Annotated Placement Strategy
+
+![Placement Strategy](Images/Placement_Strategy.png)
 
 ## Board Dimensions
 

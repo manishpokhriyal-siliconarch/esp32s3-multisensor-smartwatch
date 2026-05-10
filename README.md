@@ -78,9 +78,7 @@ All project-related files are attached within the repository.
 
 ## Project Report
 
-```text id="bz0jq6"
-Docs/Report_SmartWatch_MT2025513.pdf
-```
+[IEEE Project Report](Docs/Report_SmartWatch_MT2025513.pdf)
 
 ---
 

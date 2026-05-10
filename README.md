@@ -48,3 +48,65 @@ Library names:
 * MT2025513.pretty : Imported PCB footprints
 
 All project-related files are attached within the repository.
+
+PCB Images
+Front Side PCB
+
+(Add image here)
+
+Rear Side PCB
+
+(Add image here)
+
+PCB Routing
+
+(Add image here)
+
+3D PCB View
+
+(Add image here)
+
+## Board Dimensions
+
+| Parameter | Value |
+| --------- | ----- |
+| Width     | 35 mm |
+| Height    | 42 mm |
+
+---
+
+Project Report
+
+Add your IEEE report PDF inside:
+
+Docs/Report_SmartWatch_MT2025513.pdf
+
+# License
+
+MIT License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
+# Contact
+
+Manish Pokhriyal
+M.Tech ECE (VLSI), IIIT Bangalore
+
+Email:
+[Manish.Pokhriyal@iiitb.ac.in](mailto:Manish.Pokhriyal@iiitb.ac.in)
+
+GitHub Profile:
+https://github.com/manishpokhriyal-siliconarch
+
+Project Repository:
+https://github.com/manishpokhriyal-siliconarch/esp32s3-multisensor-smartwatch
+
+---
+
+# Acknowledgments
+
+I would like to express my sincere gratitude to the International Institute of Information Technology Bangalore (IIIT-B) for providing the resources and academic support required for this project.
+
+I am especially grateful to Dr. Kurian Polachan for his valuable guidance, technical insights, and continuous support throughout the development of this smartwatch hardware platform.

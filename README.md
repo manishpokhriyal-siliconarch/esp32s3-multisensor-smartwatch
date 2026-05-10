@@ -49,20 +49,21 @@ Library names:
 
 All project-related files are attached within the repository.
 
-PCB Images
-Front Side PCB
+## PCB Images
+
+### Front Side PCB
 
 (Add image here)
 
-Rear Side PCB
+### Rear Side PCB
 
 (Add image here)
 
-PCB Routing
+### PCB Routing
 
 (Add image here)
 
-3D PCB View
+### 3D PCB View
 
 (Add image here)
 
@@ -75,11 +76,13 @@ PCB Routing
 
 ---
 
-Project Report
+## Project Report
 
-Add your IEEE report PDF inside:
-
+```text id="bz0jq6"
 Docs/Report_SmartWatch_MT2025513.pdf
+```
+
+---
 
 # License
 

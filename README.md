@@ -37,7 +37,7 @@ The electronic design and PCB development were completed using KiCad, an open-so
 * LEDs: 0603_1608Metric_Pad1.05x0.95mm_HandSolder SMD package
 * Buck-Boost Power Inductor: 1008_2520Metric_Pad1.43x2.20mm_HandSolder SMD package
 
-The PCB was designed to match the dimensions of commercially available 1.83-inch smartwatch display modules for simplified mechanical integration within a wearable smartwatch assembly.
+The PCB geometry and mounting-hole arrangement were designed to match commercially available 1.83-inch smartwatch display modules, enabling direct mechanical alignment and compatible display mounting within the wearable smartwatch assembly.
 
 ## Custom Libraries
 

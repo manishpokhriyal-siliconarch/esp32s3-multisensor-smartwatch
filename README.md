@@ -111,13 +111,13 @@ All project-related files are attached within the repository.
 
 ### BOM (Bill of Materials)
 
-[BOM CSV](myJobset/Fab-n-Assembly/bom.csv)
+[View BOM CSV](myJobset/Fab-n-Assembly/bom.csv)
 
 ---
 
 ## Project Report
 
-[IEEE Project Report](Docs/Report_SmartWatch_MT2025513.pdf)
+[View Project Report](Docs/Report_SmartWatch_MT2025513.pdf)
 
 ---
 
@@ -125,7 +125,7 @@ All project-related files are attached within the repository.
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 

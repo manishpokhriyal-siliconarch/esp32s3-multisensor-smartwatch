@@ -100,6 +100,20 @@ All project-related files are attached within the repository.
 
 ---
 
+## Design Files
+
+### System-Level Hierarchical Schematic
+
+[View Complete Schematic PDF](myOutputs/SmartWatch_MT2025513.pdf)
+
+---
+
+### BOM (Bill of Materials)
+
+[Download BOM CSV](myJobset/Fab-n-Assembly/bom.csv)
+
+---
+
 ## Project Report
 
 [IEEE Project Report](Docs/Report_SmartWatch_MT2025513.pdf)

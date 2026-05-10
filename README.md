@@ -74,9 +74,16 @@ All project-related files are attached within the repository.
 
 ### Front and Rear Component Placement
 
-| Front-Side Placement                           | Rear-Side Placement                          |
-| ---------------------------------------------- | -------------------------------------------- |
-| ![Placement Front](Images/Placement_Front.png) | ![Placement Rear](Images/Placement_Rear.png) |
+<table>
+  <tr>
+    <td width="60%">
+      <img src="Images/Placement_Front.png" width="100%">
+    </td>
+    <td width="40%">
+      <img src="Images/Placement_Rear.png" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
